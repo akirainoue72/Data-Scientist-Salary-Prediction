@@ -6,7 +6,9 @@ This project predicts the salary of data scientist salaries based on various fac
 
 ## Code and Resources Used
 **Python Version:** 3.8
+
 **Packages:** numpy,pandas,matplotlib,seaborn,sklearn
+
 **Data Taken From:** https://github.com/therrshan/Salary-Predictions
 
 ## Data Cleaning
