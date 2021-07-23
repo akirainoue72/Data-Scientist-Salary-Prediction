@@ -43,6 +43,7 @@ After doing all three models, the Random Forest model gave the best results so I
 
 Using GridSearchCV, I used root mean squared error to evaaluate the result on the test data as it was the best parameter based on the GridSearchCV outcomes. 
 Here is the final result
+
 **Random Forest** : RMSE=12.07
 
 
